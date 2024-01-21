@@ -1,0 +1,40 @@
+/* title section */
+#Mydiv1 {
+  
+    float: center;
+    margin: 0 0 0 0;
+    text-wrap: wrap;
+    text-align: center;
+}
+
+/* skyrim section, This section will sit at the top center of the webpage*/
+#Mydiv2 {
+  
+    float: center;
+    margin: 0 0 0 0;
+    text-wrap: wrap;
+    margin-bottom: -100px; 
+    text-align: center;
+    font-family:monospace;
+}
+ 
+/* elden ring section, This section will sit at the middle left of the webpage*/
+#Mydiv3 {
+  
+    float: center;
+    margin: 0 0 0 0;
+    text-wrap: wrap;
+    margin-right: auto;
+    margin-top: 80px;
+    font-family: monospace;
+}
+
+/* overwatch section, This section will sit at the bottom right of the webpage*/
+#Mydiv4 {
+  
+    float: right;
+    margin: 0 0 0 0;
+    text-wrap: wrap;
+    margin-bottom: -50px;
+    font-family: monospace;
+}
